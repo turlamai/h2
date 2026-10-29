@@ -2,7 +2,7 @@
 
 [English](README.md) · **中文**
 
-[![CI](https://github.com/turinglambdaai/h2/actions/workflows/ci.yml/badge.svg)](https://github.com/turinglambdaai/h2/actions/workflows/ci.yml)
+[![CI](https://github.com/turlamai/h2/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/h2/actions/workflows/ci.yml)
 
 Racket 的 HTTP/2：RFC 7540 帧编解码 + 完整 RFC 7541 HPACK（静态/动态表、Huffman 双向）。纯协议层——字节进、结构出；连接与流状态机留给调用者。
 
