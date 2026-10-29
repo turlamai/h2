@@ -2,7 +2,7 @@
 
 **English** · [中文](README.zh-CN.md)
 
-[![CI](https://github.com/turinglambdaai/h2/actions/workflows/ci.yml/badge.svg)](https://github.com/turinglambdaai/h2/actions/workflows/ci.yml)
+[![CI](https://github.com/turlamai/h2/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/h2/actions/workflows/ci.yml)
 
 HTTP/2 for Racket: the RFC 7540 frame codec and the full RFC 7541
 HPACK (static + dynamic tables, Huffman both ways). Pure protocol
