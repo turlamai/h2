@@ -7,5 +7,5 @@
 (define scribblings '(("scribblings/h2.scrbl" ())))
 (define pkg-desc "HTTP/2 for Racket: RFC 7540 frames and RFC 7541 HPACK")
 (define license 'MIT)
-(define pkg-authors '(turinglambdaai))
+(define pkg-authors '(turlamai))
 (define test-omit-paths '("scribblings"))
