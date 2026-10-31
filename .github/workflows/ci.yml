@@ -9,7 +9,7 @@ permissions:
   contents: read
 
 concurrency:
-# Cancel only superseded checks for the same PR; preserve every main run.
+  # Cancel only superseded checks for the same PR; preserve every main run.
   group: ci-${{ github.workflow }}-${{ github.event_name }}-${{ github.event.pull_request.number || github.run_id }}
   cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
